@@ -262,18 +262,19 @@ textarea {
   
 /* Glyphicons */
 
-/* Footer */
 
-.footer {
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-.container-2 {
-  text-align: center;
-}
 
-#footer {
-  text-align: center;
-  padding: 5vh;
-}
+  /* Footer */
+  .bottom {
+    background-color:#00264d;
+    font-size: 20px;
+  }
+  footer{
+    padding:0.5rem;  
+  }
+  footer p{
+    text-align:center;
+  }
+  #socialmedia {
+    text-align: center;
+  }
