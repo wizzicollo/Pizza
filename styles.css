@@ -85,7 +85,7 @@
   box-sizing: 3px;
 }
 #showcase {
-  background: url(./images/piz10.jpeg) no-repeat center center/cover;
+  background: url(./images/pi1.jpeg) no-repeat center center/cover;
   height: 87.8vh;
 }
 .showcase-content {
@@ -99,7 +99,7 @@
   left: 0;
   bottom: 0;
   right: 0;
-  background: url(./images/piz10.jpeg) no-repeat center center/cover;
+  background: url(./images/piza1.jpeg) no-repeat center center/cover;
   color: #fff;
 }
 .showcase-content h1 {
