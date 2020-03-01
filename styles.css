@@ -21,7 +21,7 @@
     /* background-color:#00264d; */
     background-color: transparent;
     padding: 1.5rem 8rem;
-    position: sticky;
+    position: relative;
     top: 0;
     z-index: 1;
     border-bottom: 0px solid 3693ff;
@@ -77,6 +77,21 @@
     color: black !important;
   } */
   
+  /* home button */
+
+  #btn{
+    justify-content: center;
+    display: flex;
+    margin-left: 40%;
+    margin-top: 15%;
+    padding: 20px 40px;
+    font-size: 30px;
+
+}
+#btn:hover{
+    background-color: orange;
+    color:white;
+}
 
 /* Home */
 
