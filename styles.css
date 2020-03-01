@@ -1,5 +1,77 @@
 @import url("bootstrap.css");
 
+
+
+
+/* navbar */
+
+
+
+/* navbar */
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    /* background-color:#00264d; */
+    background-color: transparent;
+    padding: 1.5rem 8rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    border-bottom: 0px solid 3693ff;
+    text-align: center;
+  }
+  
+  #navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+  
+  }
+  #navbar h2 a {
+    color: #fff;
+    text-decoration: none;
+  }
+  #navbar li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 1rem;
+    font-size: 1.3rem;
+    margin: 0 0.5rem;
+    border-radius: 5px;
+    transition: 0.3s;
+    
+  }
+  #navbar li a:hover {
+    background-color: #3693ff;
+  }
+  
+
+/* .navbar {
+    background-color: transparent;
+    border: 0;
+    padding: 2em;
+  }
+  .navbar button {
+    background-color: red !important;
+  }
+  .navbar button:hover {
+    background-color: black !important;
+  }
+  .navbar-brand {
+    color: black !important;
+    font-size: 6em;
+  }
+  .navbar a:not(.navbar-brand) {
+    color: red !important;
+    font-size: 3em;
+    font-weight: bolder;
+  }
+  .navbar a:hover {
+    color: black !important;
+  } */
+  
+
 /* Home */
 
 .image1 {
@@ -71,7 +143,7 @@ p {
 /* Services */
 
 .services {
-  background-image: url(./images/logo.jpeg) no-repeat center center/cover;
+  background-image: url(./images/piz2.jpeg) ;
   height: 300px;
   color: #fff;
 }
@@ -125,7 +197,7 @@ h3 {
 /* Gallery */
 
 #photos {
-    padding: 3em 2em;
+    /* padding: 3em 2em; */
   }
   .col-md-4 {
     position: relative;
@@ -134,7 +206,7 @@ h3 {
     width: 200px;
     height: 10em;
     margin: 2em 0;
-    border-radius: 2em;
+    /* border-radius: 2em; */
     transition: transform 2s ease-in-out;
   }
   #photos img:hover {
@@ -163,8 +235,8 @@ h3 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 60vh;
-  background-image: url("./images/logo.jpeg");
+  height: 70vh;
+  background-image: url("./images/piz10.jpeg");
   color: white;
 }
 .contacts h1 {
@@ -219,7 +291,7 @@ textarea {
     background-position: left;
     background-repeat: no-repeat;
     background-size: 50%;
-    height: 65vh;
+    height: 73vh;
     background-image: url("./images/piz8.jpeg");
     color: white;
   }
@@ -231,7 +303,7 @@ textarea {
     background-color: black;
     opacity: 0.6;
     padding: 2em 1em;
-    height: 68em;
+    height: 80em;
     padding: 3em 2em;
     /* background-position: left;
     background-repeat: no-repeat;
