@@ -179,7 +179,7 @@ p {
   }
   #photos img {
     width: 300px;
-    height: 20em;
+    height: 15em;
     margin: 2em 0;
     /* border-radius: 2em; */
     transition: transform 2s ease-in-out;
@@ -196,9 +196,10 @@ p {
     transform: translate(-50%, -50%);
     border-top: 0.15em solid black;
     border-bottom: 0.15em solid black;
-    color: red;
+    color: white ;
+    font-weight: bolder;
     display: none;
-    font-size: 5em;
+    font-size: 2.5em;
   }
   #photos .col-md-4:hover h2 {
     display: block;
@@ -215,9 +216,7 @@ p {
 
   /* Order for delivery */
 
-
-
-.navbar {
+s.navbar {
   font-size: 25px !important;
   background-color: goldenrod !important;
   z-index: 100;
@@ -263,7 +262,7 @@ p {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 70vh;
+  height: 80vh;
   background-image: url("./images/wood.jpeg");
   color: white;
 }
@@ -325,7 +324,10 @@ textarea {
   }
   
   #form h1 {
-    color: red;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    padding-right: 300;
   }
   .form {
     background-color: black;
@@ -359,6 +361,7 @@ textarea {
   }
   .iframe iframe {
     height: 40em;
+    padding-bottom: 50px;
   }
   
 /* Glyphicons */
