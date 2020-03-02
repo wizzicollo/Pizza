@@ -1,13 +1,13 @@
 
 # project name
-- Pizza
+- Pizza-Inn
 
 ## author name
 - Collins Kiprutoh
 
 ## description of project
 
-     This project is aimed at creating a platform that enables users order type of pizza from where they are located and they get delivered.
+     This project is aimed at creating a platform that enables customers to order type of pizza from where they are located and they get delivered and also give them an option of not being delivered.
 
 ## project setup instructions
 

@@ -269,7 +269,7 @@ s.navbar {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 50vh;
+  height: 52vh;
   background-image: url("./images/wood.jpeg");
   color: white;
 }
@@ -377,7 +377,6 @@ textarea {
   }
   footer{
     padding:0.5rem;  
-    text-align: center;
   }
   footer p{
     text-align:center;
@@ -385,6 +384,8 @@ textarea {
   #socialmedia {
     text-align: center;
   }
-#socialmedia{
-  text-align: center;
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
