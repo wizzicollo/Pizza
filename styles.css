@@ -297,7 +297,7 @@ h3 {
   .mycard {
     font-size: 18px;
     padding: 15px 15px;
-   background-color:whitesmoke;
+   background-color:black;
   }
   
   .mybtn {
@@ -490,7 +490,8 @@ textarea {
 .mycard {
   font-size: 18px;
   padding: 15px 15px;
- background-color:whitesmoke;
+ background-color:black;
+ background-image: url(images/wood.jpeg);
 }
 
 .mybtn {
