@@ -161,6 +161,15 @@ p {
 
 /* Gallery */
 
+.btn {
+  color: #3693ff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 1rem 2rem;
+  border: 1px solid #3693ff;
+  border-radius: 10px;
+  font-weight: bold;
+}
 #photos {
     /* padding: 3em 2em; */
     background-image: url(images/wood.jpeg);
@@ -194,7 +203,15 @@ p {
   #photos .col-md-4:hover h2 {
     display: block;
   }
-  
+  .btn {
+    color: #3693ff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem 2rem;
+    border: 1px solid #3693ff;
+    border-radius: 10px;
+    font-weight: bold;
+  }
 
   /* Order for delivery */
 
