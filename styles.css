@@ -447,29 +447,7 @@ textarea {
   #socialmedia {
     text-align: center;
   }
-
-
-  Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@wizzicollo 
-chepkiruibetty
-/
-Seron-instant-pizza
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-Seron-instant-pizza/css/styles.css
-@chepkiruibetty chepkiruibetty add a button and modify script
-e893569 on 15 Dec 2019
-72 lines (61 sloc)  1023 Bytes
- 
-* {
+{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -523,33 +501,4 @@ e893569 on 15 Dec 2019
 .myform {
   padding: 16px 20px;
 }
-footer {
-  background-color:burlywood;
-  height: 20vh;
-  font-size: 1vw;
-  font-weight: bold;
-}
 
-/* Small devices (landscape phones, 576px and down) */
-@media (max-width: 576px) {
-  .landingtext > h1 {
-    font-size: 9vw;
-  }
-  footer {
-    height: 30vh;
-    font-size:5vw;
-    
-  }
-}
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
