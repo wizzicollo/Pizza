@@ -23,14 +23,7 @@
 
 /* navbar */
 
-#navbar .logo{
-  float: left;
-  height: 100vh;
-  padding-left: 200px;
-}
-.logo{
-  width: 900px;
-}
+
 /* #navbar .logo1{
   float: right;
 }
